@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Musicah</string>
+    <string name="action_settings">Settings</string>
+    <string name="stop">Stop</string>
+    <string-array name="filenames">
+        <item>Guts Da Ze.mp3</item>
+        <item>Melody.mp3</item>
+        <item>Shanghai_Honey.mp3</item>
+    </string-array>
+</resources>
